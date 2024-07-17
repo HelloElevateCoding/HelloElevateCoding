@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sindhu Manivannan
-- 👀 I’m interested in Connecting with Young Learners To Upskill Coding Skills.
+- 👀 Hello Learners! I'm a Passionate Educator With Expertise in Coding & Programming. Skilled in Motivating & Inspiring Learners To Unlock Their In-Demand Coding Skills!
 - 🌱 I’m currently working as a Full Stack Mentor
   
 - 📫 How to reach me - mail to helloelevatecoding@gmail.com
